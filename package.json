@@ -4,7 +4,7 @@
   "description": "Test Puppeteer",
   "main": "src/index.js",
   "dependencies": {
-    "puppeteer": "^3.0.4"
+    "puppeteer": "^3.3.0"
   },
   "devDependencies": {},
   "scripts": {
